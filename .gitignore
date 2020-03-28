@@ -1,0 +1,13 @@
+#gitignore UE4
+
+
+*.vs
+#/Projet_UE4_Bachelors/.vs
+/Projet_UE4_Bachelors/Binaries
+/Projet_UE4_Bachelors/Content/StarterContent
+/Projet_UE4_Bachelors/Content/Archives
+/Projet_UE4_Bachelors/Intermediate
+/Projet_UE4_Bachelors/Saved
+
+*.sln
+
